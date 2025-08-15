@@ -12,8 +12,10 @@ What happened on this day in history? Browse through historical events day by da
 ## Screenshots
 
 <div>
-  <img src="https://github.com/user-attachments/assets/936d0fde-ee82-49b5-b518-6259402f1c6d" alt="Main Screen" width="300"/>
-  <img src="https://github.com/user-attachments/assets/4b5c5238-cd95-439d-a6fd-90585de81ce3" alt="Date Picker" width="300"/>
+  <img src="https://github.com/user-attachments/assets/936d0fde-ee82-49b5-b518-6259402f1c6d" alt="Home Screen" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4b5c5238-cd95-439d-a6fd-90585de81ce3" alt="Browser Custom Tab" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1b31833a-909f-4777-83ab-6adb9d22ccde" alt="Date Picker" width=300/>
+
 </div>
 
 
