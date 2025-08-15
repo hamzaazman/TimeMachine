@@ -30,7 +30,7 @@ class HistoryRepositoryImpl @Inject constructor(
 
             val res = api.getOnThisDayEvents(
                 language = "tr",
-                type = "events", // ilk sürümde sadece events
+                type = "events",
                 month = "%02d".format(month),
                 day = "%02d".format(day)
             )
