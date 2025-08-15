@@ -20,7 +20,7 @@ What happened on this day in history? Browse through historical events day by da
 
 
 ## Installation
-Download the latest APK from [Releases](https://github.com/hamzaazman/time-machine/releases/tag/v1.0.0)
+Download the latest APK from [Releases]([https://github.com/hamzaazman/time-machine/releases/tag/v1.0.0](https://github.com/hamzaazman/TimeMachine/releases))
 
 **Requirements:** Android 7.0+
 
